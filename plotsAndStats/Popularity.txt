@@ -1,0 +1,26 @@
+----///---- Stats for Popularity ----///----
+
+
+Top 5:
+         Artist Name(s)               Track Name  Popularity
+         Arctic Monkeys         I Wanna Be Yours          94
+David Guetta,Bebe Rexha          I'm Good (Blue)          93
+         Arctic Monkeys         Do I Wanna Know?          89
+            Linkin Park               In the End          88
+ Calvin Harris,Dua Lipa One Kiss (with Dua Lipa)          88
+
+
+Bottom 5:
+Artist Name(s)          Track Name  Popularity
+  Rise Against              Savior           0
+   Evanescence         My Immortal           0
+   Evanescence    Bring Me To Life           0
+         Meiko Leave The Lights On           0
+        Saliva    Click Click Boom           0
+
+
+----------------------------------------------------------------
+
+Max Popularity: 94
+Min Popularity: 0
+Average Popularity: 30.245470485096433

@@ -1,0 +1,26 @@
+----///---- Stats for Duration (minutes) ----///----
+
+
+Top 5:
+Artist Name(s)               Track Name  Duration (minutes)
+          TOOL                Third Eye           13.857333
+     The Doors                  The End           11.722883
+          TOOL 10,000 Days (Wings Pt 2)           11.229550
+          TOOL           Rosetta Stoned           11.189333
+          TOOL               Reflection           11.132667
+
+
+Bottom 5:
+Artist Name(s)          Track Name  Duration (minutes)
+ Ramin Djawadi   Sweetwater Stride            0.692550
+          TOOL        Intermission            0.933333
+          TOOL Eon Blue Apocalypse            1.071550
+      Defences           Re Emerge            1.084667
+   Darren Korb      A Proper Story            1.154067
+
+
+----------------------------------------------------------------
+
+Max Duration (minutes): 13.857333333333333
+Min Duration (minutes): 0.69255
+Average Duration (minutes): 4.0314905708162865

@@ -1,0 +1,26 @@
+----///---- Stats for Valence ----///----
+
+
+Top 5:
+    Artist Name(s)                Track Name  Valence
+Earth, Wind & Fire                 September    0.981
+          Boney M.             Gotta Go Home    0.980
+            Nabiha     Never Played The Bass    0.976
+      Juice Newton           Queen Of Hearts    0.975
+          Boney M. Rasputin - Single Version    0.972
+
+
+Bottom 5:
+Artist Name(s)                                                                Track Name  Valence
+ Ramin Djawadi                                                                    Online   0.0275
+          TOOL                                                              Viginti Tres   0.0276
+  James Horner  Alicia Discovers Nash's Dark World - A Beautiful Mind/Soundtrack Version   0.0279
+  James Horner                     Closing Credits - A Beautiful Mind/Soundtrack Version   0.0301
+  James Horner Saying Goodbye To Those You So Love - A Beautiful Mind/Soundtrack Version   0.0321
+
+
+----------------------------------------------------------------
+
+Max Valence: 0.981
+Min Valence: 0.0275
+Average Valence: 0.4854878141437756
