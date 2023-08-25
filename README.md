@@ -5,7 +5,7 @@ I spend a lot of time every day listening to music and so I thought why not try 
 
 ## Distribution of various song metrics
 
-I have also tried to look at the distribution of some metrics that spotify provides for each song based on their analysis, these are: Danceability, Energy, Loudness, Tempo, Valence and Popularity. 
+I have also tried to look at the distribution of some metrics that spotify provides for each song based on their own analysis, these are: Danceability, Energy, Loudness, Tempo, Valence and Popularity. 
 
 - Danceability is a number between 0 and 1 that tries to quantify how suitable a track is for dancing based on for example tempo, rhytm stability etc.. 
 
