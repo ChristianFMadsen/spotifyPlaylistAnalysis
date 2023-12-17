@@ -1,0 +1,26 @@
+----///---- Stats for Popularity ----///----
+
+
+Top 5:
+                   Artist Name(s)                             Track Name  Popularity
+                       Tate McRae                                 greedy         100
+                   Arctic Monkeys                       I Wanna Be Yours          95
+             The Weeknd,Daft Punk                                Starboy          94
+          David Guetta,Bebe Rexha                        I'm Good (Blue)          92
+Metro Boomin,The Weeknd,21 Savage Creepin' (with The Weeknd & 21 Savage)          92
+
+
+Bottom 5:
+                      Artist Name(s)                                                 Track Name  Popularity
+                        Rise Against                                                     Savior           0
+                           Colin Hay                                Overkill - Acoustic Version           0
+                          Cornershop                                            Brimful of Asha           0
+RAC,Penguin Prison,Felix Da Housecat Hollywood (feat. Penguin Prison) [Felix Da Housecat Remix]           0
+              Tritonal,Cristina Soto                           Everafter - Craig Connelly Remix           0
+
+
+----------------------------------------------------------------
+
+Max Popularity: 100
+Min Popularity: 0
+Average Popularity: 32.926261319534284

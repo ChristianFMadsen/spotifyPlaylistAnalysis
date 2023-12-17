@@ -1,0 +1,26 @@
+----///---- Stats for Loudness ----///----
+
+
+Top 5:
+                                    Artist Name(s)                             Track Name  Loudness
+                            DJ Fresh,Fox Stevenson        Gold Dust - Fox Stevenson Remix     0.836
+                               The Caracal Project                                  Hello     0.735
+Camo & Krooked,Jeru The Damaja,The Caracal Project Set It Off - The Caracal Project Remix     0.706
+                             Mefjus,Camo & Krooked                               Sientelo     0.420
+                                         Dimension                          DJ Turn It Up     0.080
+
+
+Bottom 5:
+Artist Name(s)                                                               Track Name  Loudness
+          TOOL                                                                   Mantra   -36.756
+    Aphex Twin                                                          aisatsana [102]   -32.893
+  James Horner          Of One Heart, Of One Mind - A Beautiful Mind/Soundtrack Version   -32.846
+  James Horner Nash Descends Into Parcher's World - A Beautiful Mind/Soundtrack Version   -32.791
+          TOOL                                                 Message To Harry Manback   -32.727
+
+
+----------------------------------------------------------------
+
+Max Loudness: 0.836
+Min Loudness: -36.756
+Average Loudness: -6.459391720569211
