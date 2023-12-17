@@ -1,0 +1,26 @@
+----///---- Stats for Tempo ----///----
+
+
+Top 5:
+                   Artist Name(s)        Track Name   Tempo
+                       De La Soul    Ring Ring Ring 207.966
+                      Tina Dickow             Spark 207.510
+                Souls Of Mischief  93 'Til Infinity 206.247
+Rihanna,Kanye West,Paul McCartney   FourFiveSeconds 205.903
+                             Mase All I Ever Wanted 205.006
+
+
+Bottom 5:
+Artist Name(s)                                                       Track Name  Tempo
+  James Horner First Drop-Off, First Kiss - A Beautiful Mind/Soundtrack Version 57.573
+          TOOL                                                     Intermission 59.378
+          TOOL                                                           Mantra 61.415
+ Fox Stevenson                                                     Bring A Coat 61.946
+    Audioslave                                                      Getaway Car 62.261
+
+
+----------------------------------------------------------------
+
+Max Tempo: 207.966
+Min Tempo: 57.573
+Average Tempo: 123.35171125485122
